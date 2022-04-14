@@ -2,7 +2,7 @@
 
 大家好, 我是鸭皇
 
-## 赞助
+## 赞助(Chinese users only)
 
 > 不是圈钱, 自愿, 自愿!
 
@@ -12,4 +12,6 @@
 
 UserName: chenmy1903
 
-Welcome to add my friends and play with me
+English: Welcome to add my friends and play with me
+
+中文: 欢迎你们加我好友, 和我一起玩
