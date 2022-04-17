@@ -2,15 +2,9 @@
 
 大家好, 我是鸭皇
 
-## 赞助(Chinese users only)
-
-> 不是圈钱, 自愿, 自愿!
-
-[点击前往](https://afdian.net/@chenmy1903)
-
 ## 置顶项目
 
-可能会帮到你, 可以去看看(~~给个Star吧,孩子不容易啊~~)
+可能会帮到你, 可以去看看
 
 ## Minecraft Bedrock
 
